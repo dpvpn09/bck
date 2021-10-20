@@ -19,9 +19,9 @@ account default
 host smtp.gmail.com
 port 587
 auth on
-user 5faktadunia@gmail.com
+user vfitriah97@gmail.com
 from Backup VPS Successfull
-password bvymaxrrnqgcmskv 
+password toheri19
 logfile ~/.msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
